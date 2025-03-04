@@ -1,4 +1,4 @@
 Dependencies:
-  OpenCV
-  NumPy
+  OpenCV,
+  NumPy,
   PIL (Pillow)
